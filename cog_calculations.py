@@ -15,11 +15,11 @@ H145_to_STA = 4470
 
 ######################################
 # Mass and coordinates for rail and box
-rail_mass = 0
+rail_mass = 75
 rail_BL = -650
 rail_STA = 2510
 
-box_mass = 100
+box_mass = 150
 box_BL = -1100
 box_STA = 2510
 
